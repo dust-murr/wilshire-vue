@@ -1,5 +1,5 @@
 <template>
-    <header class="nav">
+<nav class="nav">
   <a href="" class="logo">Wilshire</a>
   <input class="menu-btn" type="checkbox" id="menu-btn" />
   <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
@@ -10,7 +10,7 @@
     <li><a href="#offices">Offices</a></li>
     <li><a href="#contact">Contact Us</a></li>
   </ul>
-</header>
+</nav>
 </template>
 
 <style> 
@@ -40,7 +40,7 @@
   display: block;
   padding: 20px 20px;
   font-size: 18px;
-  color: red;
+  color: rgb(233, 165, 39);
   text-decoration: none;
 }
 

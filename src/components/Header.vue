@@ -1,11 +1,12 @@
 <template>
- <section class="header">
+ <section class="head">
+   <div class="container">
     <div class="row">
       <video src="../assets/video/world.mp4" muted loop autoplay></video>
     <div class="overlay"></div>
       <div class="text">
         <h2 class="animate__animated animate__backInLeft">Invest Now </h2> 
-        <h3 class="animate__animated animate__backInRight animate__delay-1s">In Your Future</h3>
+        <h3 class="animate__animated animate__backInLeft animate__delay-1s">In Your Future</h3>
         <p class= "animate__animated animate__backInLeft animate__delay-2s">We provide a holistic service that brings together market-leading indexes, robust financial analytics and end-to-end investment services and solutions for institutional investors, financial advisors and intermediaries.</p>
         <a href="#team" class="animate__animated animate__backInLeft animate__delay-2s"><b>Explore</b></a>
       </div>
@@ -15,6 +16,7 @@
       <li><a href="#"><img src="https://i.ibb.co/ySwtH4B/instagram.png"></a></li>
     </ul>
     </div>
+  </div>
   </section>
 </template>
 
@@ -27,7 +29,7 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-.header
+.head
 {
   position: relative;
   right: 0;
@@ -41,12 +43,12 @@
   transition: 0.5s;
   z-index: 2;
 }
-.header.active
+.head.active
 {
   right: 300px;
 }
 
-.header video
+.head video
 {
   position: absolute;
   top: 0;
