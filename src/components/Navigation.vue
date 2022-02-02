@@ -17,7 +17,7 @@
  
 
 .logo {
-  color: rgb(230, 49, 160);
+  color: blue;
   font-family: "Helvetica script";
 }
 
@@ -33,15 +33,14 @@
 }
 .nav ul {
   margin: 0;
-  padding-left: 400px;
   list-style: none;
   overflow: hidden;
 }
 .nav li a {
   display: block;
   padding: 20px 20px;
-  font-size: 20px;
-  color: rgb(230, 49, 160);
+  font-size: 18px;
+  color: red;
   text-decoration: none;
 }
 
