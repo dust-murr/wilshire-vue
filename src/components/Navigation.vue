@@ -17,7 +17,7 @@
  
 
 .logo {
-  color: blue;
+  color: yellow;
   font-family: "Helvetica script";
 }
 
@@ -131,7 +131,7 @@
   top: 0;
 }
 
-@media (min-width: 80em) {
+@media (min-width: 50em) {
   .nav li {
     float: left;
   }
