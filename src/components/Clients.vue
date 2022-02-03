@@ -2,15 +2,9 @@
 <section class="pic" id="clients">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="jump"><br>
-              <span>C</span>
-              <span>L</span>
-              <span>I</span>
-              <span>E</span>
-              <span>N</span>
-              <span>T</span>
-              <span>S</span><br><br><br><br><br>
-              </h2>
+            <div class="threeD">
+              Clients
+            </div>
           </div>
         </div>
 <div id="slider">

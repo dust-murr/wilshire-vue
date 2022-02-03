@@ -3,17 +3,9 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-             <h2 class="jump">
-              <span>C</span>
-              <span>O</span>
-              <span>N</span>
-              <span>T</span>
-              <span>A</span>
-              <span>C</span>
-              <span>T&nbsp;</span>
-              <span>U</span>
-              <span>S</span>
-              </h2>
+             <div class="threeD">
+              CONTACT US
+            </div>
             <h3 class="section-subheading text-muted">Whether you want to find out more about our solutions or speak to one of our experts, 
               <br>we're ready to connect you to the right team and answer any of your questions.</h3>
           </div>

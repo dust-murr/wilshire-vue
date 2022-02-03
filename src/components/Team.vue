@@ -3,15 +3,9 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="jump">
-              <span>O</span>
-              <span>U</span>
-              <span>R&nbsp;</span>
-              <span>T</span>
-              <span>E</span>
-              <span>A</span>
-              <span>M</span>
-            </h2>
+            <div class="threeD">
+              OUR AMAZING TEAM
+            </div>
             <h3 class="section-subheading text-muted">Meet the colleagues who make everything happen</h3>
           </div>
         </div>

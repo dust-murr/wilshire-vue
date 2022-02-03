@@ -3,13 +3,9 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="jump">
-              <span>A</span>
-              <span>B</span>
-              <span>O</span>
-              <span>U</span>
-              <span>T</span>
-            </h2>
+            <div class="threeD">
+              ABOUT
+            </div>
             <h3 class="section-subheading text-muted">A trusted investment partner for nearly 50 years.</h3>
           </div>
         </div>
@@ -158,87 +154,6 @@
 </template>
 
 <style>
-  .jump {
-  margin: 0;
-  padding: 0;
-  position: absolute;
-  top: -50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.jump span {
-  float: left;
-  color: rgb(0, 0, 0);
-  padding: 5px;
-  font-family: Helvetica script;
-  font-weight: bold;
-  display: table-cell;
-  text-shadow: 0 1px 0 #d8d8d8, 0 2px 0 #d8d8d8, 0 3px 0 #d8d8d8;
-  animation: animate 1s linear infinite;
-}
-
-@keyframes animate {
-  0% {
-    transform: translateY(0px);
-    text-shadow: 0 1px 0 #d8d8d8, 0 2px 0 #d8d8d8, 0 3px 0 #d8d8d8,
-      0 2px 5px rgba(0, 0, 0, 0.2);
-  }
-
-  50% {
-    transform: translateY(-20px);
-    text-shadow: 0 1px 0 #d8d8d8, 0 2px 0 #d8d8d8, 0 3px 0 #d8d8d8,
-      0 25px 5px rgba(0, 0, 0, 0.2);
-  }
-
-  100% {
-    transform: translateY(0px);
-    text-shadow: 0 1px 0 #d8d8d8, 0 2px 0 #d8d8d8, 0 3px 0 #d8d8d8,
-      0 2px 5px rgba(0, 0, 0, 0.2);
-  }
-}
-.jump span:nth-child(1) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(2) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(3) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(4) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(5) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(6) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(7) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(8) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(9) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(10) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(11) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(12) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(13) {
-  animation-delay: 0.1s;
-}
-.jump span:nth-child(14) {
-  animation-delay: 0.1s;
-}
   .timeline{
       position:relative;
       padding:0;

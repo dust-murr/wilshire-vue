@@ -2,15 +2,9 @@
 <section id="offices">
     <div class="row">
           <div class="col-lg-12 text-center">
-            <h2 class="jump">
-              <span>O</span>
-              <span>F</span>
-              <span>F</span>
-              <span>I</span>
-              <span>C</span>
-              <span>E</span>
-              <span>S</span>
-            </h2>
+            <div class="threeD">
+              LOCATIONS
+            </div>
             <h3 class="section-subheading text-muted">Global & Affiliate Offices</h3>
           </div>
         </div>
